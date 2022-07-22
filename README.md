@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dunn-Dev8
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on Nothing at the moment
+- 📫 How to reach me Discord: Dummkopf#4781
