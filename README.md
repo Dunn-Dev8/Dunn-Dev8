@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dunn-Dev8
+- 👋 Hi, I’m Jacob.
 - 👀 I’m interested in Programming & Game Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Nothing at the moment
